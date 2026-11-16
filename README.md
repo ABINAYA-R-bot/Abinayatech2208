@@ -35,13 +35,11 @@ I'm an Information Technology student passionate about building modern, responsi
 💻 Programming Languages
 • Python
 • JavaScript
-• C
 
 🔧 Tools & Platforms
 • Git
 • GitHub
 • Visual Studio Code
-• Postman
 • Canva
 
 🚀 FEATURED PROJECTS
